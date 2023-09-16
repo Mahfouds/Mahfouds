@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Master Microservices with Spring Boot and Spring Cloud Udemy course**
 
-- 👯 I’m looking to find an internship on a **software engineering project**
+- 👯 I am actively seeking an internship opportunity in the field of **software development projects**
 
-- 🌱 I’m currently working on [school management website](https://github.com/baroudu1/school-back-end)
+- 🌱 I’m currently working on [School Management Application Backend with Java (SOA Architecture)](https://github.com/baroudu1/school-back-end)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahfouds](https://github.com/Mahfouds)
 
