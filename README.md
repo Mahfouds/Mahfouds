@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in the last year of a [Data Science and Intelligent Systems master's program](https://fst-usmba.ac.ma/framework/uploads/2021/12/MST-SDSI.pdf)
 
-- 👯 I am currently working as an intern at **[Hightech Payment Systems Worldwide](https://www.hps-worldwide.com/)**, where I am involved in developing a cash management platform using a sophisticated microservices architecture. This role allows me to apply a suite of Spring technologies, including Spring Boot, Spring Cloud, Spring Data Security, and Spring Stream, along with Kafka for messaging and Angular for the frontend. The application adheres to the open/closed principle, promoting robustness and scalability.
+- 👯 I am currently working as an intern at **[Hightech Payment Systems Worldwide](https://www.hps-worldwide.com/)**, where I am involved in developing a cash management platform for the banking sector using a sophisticated microservices architecture. This role allows me to apply a suite of Spring technologies, including Spring Boot, Spring Cloud, Spring Data Security, and Spring Stream, along with Kafka for messaging and Angular for the frontend. The application adheres to the open/closed principle, promoting robustness and scalability.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahfouds](https://github.com/Mahfouds)
 
