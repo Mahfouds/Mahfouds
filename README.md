@@ -1,17 +1,13 @@
 ![logo](https://github.com/Mahfouds/Mahfouds/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mahfoud chdaoui</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
+<h3 align="center">Full stack developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfouds&label=Profile%20views&color=0e75b6&style=flat" alt="mahfouds" /> </p>
 
 - 🔭 I’m currently studying in the last year of a [Data Science and Intelligent Systems master's program](https://fst-usmba.ac.ma/framework/uploads/2021/12/MST-SDSI.pdf)
 
-- 🌱 I’m currently learning **Master Microservices with Spring Boot and Spring Cloud Udemy course**
-
-- 👯 I am actively seeking an internship opportunity in the field of **software development projects**
-
-- 🌱 I’m currently working on [School Management Application Backend with Java (SOA Architecture)](https://github.com/baroudu1/school-back-end)
+- 👯 I am currently working as an intern at **[Hightech Payment Systems Worldwide](https://www.hps-worldwide.com/)**, where I am involved in developing a cash management platform using a sophisticated microservices architecture. This role allows me to apply a suite of Spring technologies, including Spring Boot, Spring Cloud, Spring Data Security, and Spring Stream, along with Kafka for messaging and Angular for the frontend. The application adheres to the open/closed principle, promoting robustness and scalability.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahfouds](https://github.com/Mahfouds)
 
